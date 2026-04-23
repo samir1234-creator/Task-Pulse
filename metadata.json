@@ -1,0 +1,6 @@
+{
+  "name": "TaskPulse",
+  "description": "A high-performance, real-time task management application with user authentication, CRUD operations, and advanced filtering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
